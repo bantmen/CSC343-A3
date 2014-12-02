@@ -1,0 +1,40 @@
+<?xml version='1.0' standalone='no' ?>
+<!DOCTYPE interviews SYSTEM 'interview.dtd'>
+<interviews>
+	<interview rID="RES-1" pID="POS-22" sID="INT-1">
+		<date>some date</date>
+        <time>some time</time>
+        <location>some location</location>
+        <assessment>
+            <answers>
+                <answer qID="Q-1">5</answer>
+            </answers>
+            <communication>50</communication>
+            <techProficiency>100</techProficiency>
+            <enthusiasm>10</enthusiasm>
+			<collegiality>8</collegiality>
+		</assessment>
+	</interview>
+    <interview rID="RES-4" pID="POS-22" sID="INT-1">
+        <date>some date</date>
+        <time>some time</time>
+        <location>some location</location>
+        <assessment>
+            <communication>50</communication>
+            <techProficiency>100</techProficiency>
+            <enthusiasm>10</enthusiasm>
+            <collegiality>8</collegiality>
+        </assessment>
+                        
+    </interview>
+    <interview rID="RES-1" pID="POS-23" sID="INT-1">
+            <assessment>
+            </assessment>
+    </interview>
+    <interviewer sID="INT-1">
+        <forename></forename>
+        <surname></surname>
+        <honorific></honorific>
+        <title></title>
+    </interviewer>
+</interviews>

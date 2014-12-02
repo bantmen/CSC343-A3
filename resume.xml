@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE resumes SYSTEM "resume.dtd">
+<resumes>   
+	<resume rID="RES-1">
+		<summary>Some summary for rid1</summary>
+		<identification>
+			<name>
+				<forename>forename for rid1</forename>
+				<surname>surname for rid1</surname>
+				<honorific></honorific>
+				<title></title>
+			</name>
+			<sex></sex>
+			<DOB></DOB>
+			<citizenship></citizenship>
+			<address></address>
+			<telephone></telephone>
+			<email></email>
+		</identification>
+		<education>
+			<degree></degree>
+		</education>
+		<experience></experience>
+		<skills>
+			<skill what="Python" level="2"/>
+            <skill what="C" level="3"/>
+			<skill what="R" level="1"/>
+		</skills>
+	</resume>
+    <resume rID="RES-4">
+        <summary>Some summary for rid1</summary>
+        <identification>
+            <name>
+                <forename>forename for rid1</forename>
+                <surname>surname for rid1</surname>
+                <honorific></honorific>
+                <title></title>
+            </name>
+            <sex></sex>
+            <DOB></DOB>
+            <citizenship></citizenship>
+            <address></address>
+            <telephone></telephone>
+            <email></email>
+        </identification>
+        <education>
+            <degree></degree>
+        </education>
+        <experience></experience>
+                <skills>
+                    <skill what="Awk" level="1"/>
+                    <skill what="R" level="1"/>
+                    <skill what="C" level="3"/>
+    	            <skill what="Python" level="2"/>
+                    <skill what="SQL" level="1"/>
+                </skills>
+    </resume>
+    <resume rID="RES-2">
+        <skills>
+            <skill what="Python" level="3"/>
+        </skills>
+    </resume>
+    <resume rID="RES-3">
+        <skills>
+            <skill what="Python" level="1"/>
+        </skills>
+    </resume>
+    <resume rID="RES-5">
+        <skills>
+            <skill what="R" level="5"/>
+        </skills>
+    </resume>
+</resumes> 
+

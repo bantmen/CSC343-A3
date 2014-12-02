@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE postings SYSTEM "posting.dtd">
+<postings>
+	<posting pID="POS-22">
+		<position>C monkey</position>
+		<reqSkill what="SQL" level="1" importance="2"/>
+		<reqSkill what="R" level="1" importance="4"/>
+		<reqSkill what="C" level="3" importance="4"/>
+		<questions>
+			<question qID="Q-1">some question from pID 22</question>
+		</questions>
+	</posting>
+	<posting pID="POS-23">
+        <reqSkill what="Python" level="3" importance="5"/>
+    </posting>
+</postings> 

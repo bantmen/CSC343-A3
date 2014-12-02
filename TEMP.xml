@@ -1,0 +1,3 @@
+<?xml version='1.0' standalone='no' ?>
+<!DOCTYPE report SYSTEM 'report.dtd'>
+<report><interview><who rID="RES-1" forename="forename for rid1" surname="surname for rid1"/><position>C monkey</position><match>6</match><average>34.6</average></interview><interview><who rID="RES-4" forename="forename for rid1" surname="surname for rid1"/><position>C monkey</position><match>10</match><average>42</average></interview><interview><who rID="RES-1" forename="forename for rid1" surname="surname for rid1"/><position/><match>-5</match><average>NaN</average></interview></report>
